@@ -17,3 +17,9 @@ to access env file directly
 ```
 npm i dotenv 
 ```
+
+formatte code and it's a dev dependencies 
+
+```
+npm i prettier
+```

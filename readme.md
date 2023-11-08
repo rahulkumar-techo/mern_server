@@ -1,25 +1,5 @@
 
-## GitIgnore Generator .
-for node .
+## Connecting DataBase to Server (Backend)
 
-## touch for creating file in git bash
+URI is in the .env file  you can have a look in .env.sample file
 
-### This is only a file structure 
-
-### setup for File and their npms 
-
-it'll run contineous according to file code changes.
-```
-npm i -D nodemon
-```
-
-to access env file directly 
-```
-npm i dotenv 
-```
-
-formatte code and it's a dev dependencies 
-
-```
-npm i prettier
-```
